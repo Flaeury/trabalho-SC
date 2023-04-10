@@ -6,5 +6,7 @@ SLIDE 44 - Faça um programa que converta de binário para decimal. É para ser 
 
 SLIDE 50 - Faça um programa que converta de decimal para binário. É para ser explicado em sala de aula.
 
+SLIDE 96 - Faça subtrações usando complemento de 2. Explicar em sala de aula.
+
 Ciências da Computação
 Aluna Raiane Oliveira - T2
