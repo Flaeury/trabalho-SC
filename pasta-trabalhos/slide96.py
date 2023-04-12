@@ -8,7 +8,7 @@ if not all(c in '01' for c in pergunta1):
 if not all(c in '01' for c in pergunta2):
     print("A segunda entrada contém caracteres inválidos.")
     exit()
-
+else:
 # Converte os números em binário para decimal
 decimalde1 = 0
 decimalde2 = 0
