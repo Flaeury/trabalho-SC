@@ -19,3 +19,13 @@ else:
 
 
 # ATIV 2
+chave1 = int(input("Digite 0 para desligar ou 1 para ligar a chave 1: "))
+chave2 = int(input("Digite 0 para desligar ou 1 para ligar a chave 2: "))
+chave3 = int(input("Digite 0 para desligar ou 1 para ligar a chave 3: "))
+
+num_chaves_ligadas = chave1 + chave2 + chave3
+
+if num_chaves_ligadas % 2 == 0:
+    print("Você ligou a saída")
+else:
+    print("Você desligou a saída")
