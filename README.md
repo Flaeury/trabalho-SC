@@ -10,5 +10,7 @@ SLIDE 96 - Faça subtrações usando complemento de 2. Explicar em sala de aula.
 
 SLIDE 172/173 - Atividade 1 e 2
 
+Processador - Criar código simulando o processador do Logisim
+
 Ciências da Computação
 Aluna Raiane Oliveira - T2
