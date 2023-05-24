@@ -12,38 +12,38 @@ while True:
         if not all(c in '01' for c in dado):
             print("A entrada contém caracteres inválidos.")
             exit()
-         if W_end == '0000':
-            endereco0 = dado
-         elif W_end == '0001':
-            endereco1 = dado
-         elif W_end == '0010':
-            endereco2 = dado
-         elif W_end == '0011':
-            endereco3 = dado
-         elif W_end == '0100':
-            endereco4 = dado
-         elif W_end == '0101':
-             endereco5 = dado
-         elif W_end == '0110':
-             endereco6 = dado
-         elif W_end == '0111':
-             endereco7 = dado
-         elif W_end == '1000':
-             endereco8 = dado
-         elif W_end == '1001':
-             endereco9 = dado
-         elif W_end == '1010':
-             endereco10 = dado
-         elif W_end == '1011':
-             endereco11 = dado
-         elif W_end == '1100':
+        if W_end == '0000':
+           endereco0 = dado
+        elif W_end == '0001':
+           endereco1 = dado
+        elif W_end == '0010':
+           endereco2 = dado
+        elif W_end == '0011':
+           endereco3 = dado
+        elif W_end == '0100':
+           endereco4 = dado
+        elif W_end == '0101':
+            endereco5 = dado
+        elif W_end == '0110':
+            endereco6 = dado
+        elif W_end == '0111':
+            endereco7 = dado
+        elif W_end == '1000':
+            endereco8 = dado
+        elif W_end == '1001':
+            endereco9 = dado
+        elif W_end == '1010':
+            endereco10 = dado
+        elif W_end == '1011':
+            endereco11 = dado
+        elif W_end == '1100':
              endereco12 = dado
-         elif W_end == '1101':
-             endereco13 = dado
-         elif W_end == '1110':
-             endereco14 = dado
-         elif W_end ==  '1111':
-             endereco15 = dado
+        elif W_end == '1101':
+            endereco13 = dado
+        elif W_end == '1110':
+            endereco14 = dado
+        elif W_end ==  '1111':
+            endereco15 = dado
     elif user == 'L' or user == 'l':
         print(f"Endereço 0000: {endereco0}")
         print(f"Endereço 0001: {endereco1}")
